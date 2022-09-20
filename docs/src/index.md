@@ -6,9 +6,9 @@ CurrentModule = XCFunctionals
 
 Documentation for [XCFunctionals](https://github.com/tjjarvinen/XCFunctionals.jl).
 
-```@index
-```
+## Install
 
-```@autodocs
-Modules = [XCFunctionals]
+```julia
+using Pkg
+Pkg.add("https://github.com/tjjarvinen/XCFunctionals.jl")
 ```
